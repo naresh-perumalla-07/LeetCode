@@ -38,4 +38,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1340-jump-game-v](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1340-jump-game-v) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
