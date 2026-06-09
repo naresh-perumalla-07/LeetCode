@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3689-maximum-total-subarray-value-i](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+## Greedy
+|  |
+| ------- |
+| [3689-maximum-total-subarray-value-i](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 <!---LeetCode Topics End-->
