@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1020-number-of-enclaves) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
