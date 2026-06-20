@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1340-jump-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1840-maximum-building-height](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1840-maximum-building-height) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0912-sort-an-array) |
 | [1340-jump-game-v](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1340-jump-game-v) |
+| [1840-maximum-building-height](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1840-maximum-building-height) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1840-maximum-building-height) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
