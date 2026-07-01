@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1020-number-of-enclaves) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1020-number-of-enclaves) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1020-number-of-enclaves) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -137,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0912-sort-an-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Merge Sort
 |  |
