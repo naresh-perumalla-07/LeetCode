@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0130-surrounded-regions](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0130-surrounded-regions) |
+| [0198-house-robber](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0200-number-of-islands) |
 | [0912-sort-an-array](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0994-rotting-oranges) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0198-house-robber) |
 | [1340-jump-game-v](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1340-jump-game-v) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
