@@ -6,7 +6,7 @@ class Solution {
         int[][] id = new int[m][n];
 
         for (int r = 0; r < m; r++) {
-            java.util.Arrays.fill(id[r], -1);
+           Arrays.fill(id[r], -1);
         }
 
         int k = 0;
@@ -47,7 +47,7 @@ class Solution {
             }
         }
 
-        java.util.ArrayDeque<State> queue = new java.util.ArrayDeque<>();
+        ArrayDeque<State> queue = new ArrayDeque<>();
 
         best[sr][sc][0] = energy;
         queue.offer(new State(sr, sc, 0, energy, 0));
