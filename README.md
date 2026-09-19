@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1840-maximum-building-height](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1840-maximum-building-height) |
 | [1927-sum-game](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -379,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
