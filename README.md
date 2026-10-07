@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -424,4 +426,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
