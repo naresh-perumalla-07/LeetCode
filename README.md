@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1840-maximum-building-height) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0162-find-peak-element) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1340-jump-game-v) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1840-maximum-building-height](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1840-maximum-building-height) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2784-check-if-array-is-good](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
