@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0200-number-of-islands) |
+| [0257-binary-tree-paths](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0257-binary-tree-paths](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0257-binary-tree-paths) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0257-binary-tree-paths](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0257-binary-tree-paths) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Divide and Conquer
@@ -499,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## String Matching
 |  |
