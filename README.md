@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0213-house-robber-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0877-stone-game) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0036-valid-sudoku) |
+| [0349-intersection-of-two-arrays](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0912-sort-an-array) |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/naresh-perumalla-07/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
