@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/naresh-perumalla-07/LeetCode/tree/master/0257-binary-tree-paths) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/naresh-perumalla-07/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/naresh-perumalla-07/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
